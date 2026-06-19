@@ -1,4 +1,9 @@
 {
+  "build": {
+    "env": {
+      "PNPM_VERSION": "10.12.4"
+    }
+  },
   "headers": [
     {
       "source": "/fonts/inter-var-latin.woff2",
